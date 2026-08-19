@@ -1,0 +1,19 @@
+path: path
+
+train: images/train
+val: images/test
+
+names:
+  0: board
+  1: white_pawn
+  2: white_knight
+  3: white_bishop
+  4: white_rook
+  5: white_queen
+  6: white_king
+  7: black_pawn
+  8: black_knight
+  9: black_bishop
+  10: black_rook
+  11: black_queen
+  12: black_king

@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+pillow
+
+stockfish
+chess
+
+numpy
+pandas
+matplotlib

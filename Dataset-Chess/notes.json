@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "0  board"
+    },
+    {
+      "id": 1,
+      "name": "1  white_pawn"
+    },
+    {
+      "id": 2,
+      "name": "10 black_rook"
+    },
+    {
+      "id": 3,
+      "name": "11 black_queen"
+    },
+    {
+      "id": 4,
+      "name": "12 black_king"
+    },
+    {
+      "id": 5,
+      "name": "2  white_knight"
+    },
+    {
+      "id": 6,
+      "name": "3  white_bishop"
+    },
+    {
+      "id": 7,
+      "name": "4  white_rook"
+    },
+    {
+      "id": 8,
+      "name": "5  white_queen"
+    },
+    {
+      "id": 9,
+      "name": "6  white_king"
+    },
+    {
+      "id": 10,
+      "name": "7  black_pawn"
+    },
+    {
+      "id": 11,
+      "name": "8  black_knight"
+    },
+    {
+      "id": 12,
+      "name": "9  black_bishop"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
